@@ -1,4 +1,6 @@
-package com.thepyprogrammer.imukt
+package com.thepyprogrammer.imukt.kalman
+
+import com.thepyprogrammer.imukt.zeros
 
 // Source: https://github.com/TKJElectronics/KalmanFilter
 class Kalman(var angle: Double = 0.0) {
