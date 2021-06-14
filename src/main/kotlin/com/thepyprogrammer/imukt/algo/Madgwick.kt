@@ -1,5 +1,6 @@
-package com.thepyprogrammer.imukt
+package com.thepyprogrammer.imukt.algo
 
+import com.thepyprogrammer.imukt.invSqrt
 import kotlin.math.asin
 import kotlin.math.atan2
 import kotlin.math.sqrt
